@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">COVID19Cart</string>
+    <string name="currently">CURRENTLY</string>
+    <string name="test">testajaini mah</string>
+    <string name="total_confirmed">Total Confirmed</string>
+    <string name="new_confirmed">New Confirmed</string>
+    <string name="total_deaths">Total Deaths</string>
+    <string name="new_deaths">New Deaths</string>
+    <string name="total_recovered">Total Recovered</string>
+    <string name="new_recovered">New Recovered</string>
+    <string name="history">HISTORY</string>
+    <string name="ubah">Ubah</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="countries">Countries</string>
+    <string name="total_cases">Cases</string>
+    <string name="nama_negara">Nama Negara</string>
+    <string name="zero">0</string>
+    <string name="contdesc" />
+
+</resources>
